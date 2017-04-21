@@ -1,4 +1,4 @@
-# Public Multi-omics Resources for Translational Medicine Research
+# Multi-omics Resources for Translational Medicine Research
 
 ## General Multi-omics Data Sets
 
@@ -6,7 +6,7 @@
 * [SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)
 * [EMBL-EBI EGA: European Genome-phenome Archive](https://www.ebi.ac.uk/ega/) 
 * [EMBL-EBI ArrayExpress: Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
-* [BioGPS: The Gene Annotation Portal] (http://biogps.org/)
+* [BioGPS: The Gene Annotation Portal](http://biogps.org/)
 
 ## Disease Data Sets
 
