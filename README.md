@@ -23,7 +23,9 @@
 
 ## Reference Model Databases
 
-* [ENCODE: Encyclopedia of DNA Elements](https://www.encodeproject.org/)
+* [EMBL-EBI Ensembl: Reference genome assembly](http://useast.ensembl.org/Homo_sapiens/Info/Index)
+* [NHGRI GENCODE: Encyclopedia of genes and gene variants](https://www.gencodegenes.org/releases/current.html)
+* [NHGRI ENCODE: Encyclopedia of DNA Elements](https://www.encodeproject.org/)
 * [GTEx: The Genotype-Tissue Expression Project](https://www.gtexportal.org/home/)
 * [1KGP: The 1000 Genomes Project](http://www.internationalgenome.org/)
 * [IGP: The Immunological Genome Project](http://www.immgen.org/)
