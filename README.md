@@ -2,11 +2,12 @@
 
 ## General Multi-omics Data Sets
 
-* [GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
-* [SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)
+* [NCBI GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
+* [NCBI SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)
+* [NCBI dbGaP: The database of Genotypes and Phenotypes](https://www.ncbi.nlm.nih.gov/gap)
 * [EMBL-EBI EGA: European Genome-phenome Archive](https://www.ebi.ac.uk/ega/) 
 * [EMBL-EBI ArrayExpress: Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
-* [BioGPS: The Gene Annotation Portal](http://biogps.org/)
+* [BioGPS: BioGPS Dataset Library](http://biogps.org/dataset/)
 
 ## Disease Data Sets
 
@@ -47,4 +48,4 @@
 * [NCBI All Resources](https://www.ncbi.nlm.nih.gov/guide/all/)
 * [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
 
-Let me know if I miss something.
+Let me know if I miss something...
