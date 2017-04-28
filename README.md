@@ -23,8 +23,8 @@
 
 ## Reference Model Databases
 
-* [EMBL-EBI Ensembl: Reference genome assembly](http://useast.ensembl.org/Homo_sapiens/Info/Index)
-* [NHGRI GENCODE: Encyclopedia of genes and gene variants](https://www.gencodegenes.org/releases/current.html)
+* [EMBL-EBI Ensembl: Reference Genome Assembly](http://useast.ensembl.org/Homo_sapiens/Info/Index)
+* [NHGRI GENCODE: Encyclopedia of Genes and Gene Variants](https://www.gencodegenes.org/releases/current.html)
 * [NHGRI ENCODE: Encyclopedia of DNA Elements](https://www.encodeproject.org/)
 * [GTEx: The Genotype-Tissue Expression Project](https://www.gtexportal.org/home/)
 * [1KGP: The 1000 Genomes Project](http://www.internationalgenome.org/)
@@ -41,7 +41,7 @@
 
 * [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway)
 * [NCBI BLAST: Basic Local Alignment Search Tool](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-* [GSEA: Gene Set Enrichment Analysis](http://software.broadinstitute.org/gsea/index.jsp) 
+* [Broad Institute GSEA: Gene Set Enrichment Analysis](http://software.broadinstitute.org/gsea/index.jsp) 
 * [NCBI GDP: Genome Decoration Page](https://www.ncbi.nlm.nih.gov/genome/tools/gdp)
 
 ## Resources
@@ -50,5 +50,7 @@
 * [NCBI Handbook](https://www.ncbi.nlm.nih.gov/books/NBK143764/)
 * [NCBI All Resources](https://www.ncbi.nlm.nih.gov/guide/all/)
 * [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
+* [University of Pittsburgh OBRC: Online Bioinformatics Resources Collection](https://www.hsls.pitt.edu/obrc/)
+* [Dr. Andrew Kropinski's Internet Resources for Molecular Biologists](http://molbiol-tools.ca/)
 
 Let me know if I miss something...
