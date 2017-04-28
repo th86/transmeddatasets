@@ -5,6 +5,7 @@
 * [NCBI GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
 * [NCBI SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)
 * [NCBI dbGaP: The database of Genotypes and Phenotypes](https://www.ncbi.nlm.nih.gov/gap)
+* [NCBI dbVar: Human Structural Variant Data Hub](https://www.ncbi.nlm.nih.gov/dbvar/content/human_hub/)
 * [EMBL-EBI EGA: European Genome-phenome Archive](https://www.ebi.ac.uk/ega/) 
 * [EMBL-EBI ArrayExpress: Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
 * [BioGPS: BioGPS Dataset Library](http://biogps.org/dataset/)
