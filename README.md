@@ -42,7 +42,7 @@
 * [NYU Yanai Lab: 8,500 pancrea cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133)
 
 ## Epidemiology
-* [NCI SEER: Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
+* [NCI SEER: Cancer Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
 
 ## Online Tools
 
