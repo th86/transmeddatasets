@@ -18,6 +18,7 @@
 * [cBioPortal for Cancer Genomics](http://www.cbioportal.org/)
 * [Broad Institute Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 * [GENIE: The AACR Project Genomics, Evidence, Neoplasia, Information, Exchange](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659)
+* [PCGP: Pediatric Cancer Genome Project](http://explore.pediatriccancergenomeproject.org/)
 * [SMRI: Stanley Medical Research Institute Brain Research Data Sets](http://www.stanleyresearch.org/brain-research/)
 * [PsychENCODE: The Psychiatric Disease Brain Data Sets](https://www.synapse.org//#!Synapse:syn4921369/wiki/390659)
 
@@ -30,12 +31,18 @@
 * [1KGP: The 1000 Genomes Project](http://www.internationalgenome.org/)
 * [IGP: The Immunological Genome Project](http://www.immgen.org/)
 * [HPA: The Human Protein Atlas](http://www.proteinatlas.org/)
+* [ClinGen: The Clinical Genome Resource](https://www.clinicalgenome.org/)
+* [PGKB: The Pharmacogenomixs Knowledgebase](https://www.pharmgkb.org/)
+* [CPIC: The Clinical Pharmacogenetics Implementation Consortium](https://cpicpgx.org/)
 
 ## Single Cell RNA-seq Data Sets
 
 * [Broad Institute Single Cell Portal: Oligodendroglima/Astrocytoma/Melanoma](https://portals.broadinstitute.org/single_cell)
 * [NYGC Satija Lab: 2,700 + 33,000 blood cells](http://satijalab.org/seurat/get_started.html)
 * [NYU Yanai Lab: 8,500 pancrea cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133)
+
+## Epidemiology
+* [NCI SEER: Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
 
 ## Online Tools
 
