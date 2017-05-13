@@ -9,6 +9,7 @@
 * [EMBL-EBI EGA: European Genome-phenome Archive](https://www.ebi.ac.uk/ega/) 
 * [EMBL-EBI ArrayExpress: Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
 * [BioGPS: BioGPS Dataset Library](http://biogps.org/dataset/)
+* [recount2: Analysis-Ready RNA-seq Gene and Exon Counts Datasets](https://jhubiostatistics.shinyapps.io/recount/)
 
 ## Disease Data Sets
 
@@ -40,7 +41,7 @@
 * [Broad Institute Single Cell Portal: Oligodendroglima/Astrocytoma/Melanoma](https://portals.broadinstitute.org/single_cell)
 * [NYGC Satija Lab: 2,700 + 33,000 blood cells](http://satijalab.org/seurat/get_started.html)
 * [NYU Yanai Lab: 8,500 pancrea cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133)
-
+* [10X Genomics: Single Cell Gene Expression Datasets](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 ## Epidemiology
 * [NCI SEER: Cancer Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
 
