@@ -13,7 +13,7 @@
 
 ## Disease Data Sets
 
-* [TCGA: The Cancer Genome Atlas](https://portal.gdc.cancer.gov/)
+* [TCGA: The Cancer Genome Atlas](https://portal.gdc.cancer.gov/) or [Broad GDAC Firehose](http://gdac.broadinstitute.org/)
 * [ICGC: The International Cancer Genome Consortium](https://dcc.icgc.org/)
 * [CCLE: The Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle/home)
 * [cBioPortal for Cancer Genomics](http://www.cbioportal.org/)
@@ -35,6 +35,7 @@
 * [ClinGen: The Clinical Genome Resource](https://www.clinicalgenome.org/)
 * [PGKB: The Pharmacogenomixs Knowledgebase](https://www.pharmgkb.org/)
 * [CPIC: The Clinical Pharmacogenetics Implementation Consortium](https://cpicpgx.org/)
+* [OncoKB: Precision Oncology Knowledge Base](http://oncokb.org/)
 
 ## Single Cell RNA-seq Data Sets
 
