@@ -30,6 +30,7 @@
 * [NHGRI ENCODE: Encyclopedia of DNA Elements](https://www.encodeproject.org/)
 * [GTEx: The Genotype-Tissue Expression Project](https://www.gtexportal.org/home/)
 * [1KGP: The 1000 Genomes Project](http://www.internationalgenome.org/)
+* [The 1000 Genomes TagSNP Database](http://www.columbia.edu/~to2232/tagSNP/)
 * [IGP: The Immunological Genome Project](http://www.immgen.org/)
 * [HPA: The Human Protein Atlas](http://www.proteinatlas.org/)
 * [ClinGen: The Clinical Genome Resource](https://www.clinicalgenome.org/)
@@ -61,5 +62,9 @@
 * [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
 * [University of Pittsburgh OBRC: Online Bioinformatics Resources Collection](https://www.hsls.pitt.edu/obrc/)
 * [Dr. Andrew Kropinski's Internet Resources for Molecular Biologists](http://molbiol-tools.ca/)
+
+##Acknowledgements
+
+Thanks to Dr. Abdulkadir Elmas for providing a new item.
 
 Let me know if I miss something...
