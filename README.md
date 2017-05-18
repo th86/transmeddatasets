@@ -63,7 +63,7 @@
 * [University of Pittsburgh OBRC: Online Bioinformatics Resources Collection](https://www.hsls.pitt.edu/obrc/)
 * [Dr. Andrew Kropinski's Internet Resources for Molecular Biologists](http://molbiol-tools.ca/)
 
-##Acknowledgements
+## Acknowledgements
 
 Thanks to Dr. Abdulkadir Elmas for providing a new item.
 
