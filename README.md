@@ -44,6 +44,8 @@
 * [NYGC Satija Lab: 2,700 + 33,000 blood cells](http://satijalab.org/seurat/get_started.html)
 * [NYU Yanai Lab: 8,500 pancrea cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133)
 * [10X Genomics: Single Cell Gene Expression Datasets](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
+* [JingleBells: A Repository of Standardized Single Cell RNA-Seq Datasets](http://jinglebells.bgu.ac.il)
+
 ## Epidemiology
 * [NCI SEER: Cancer Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
 
