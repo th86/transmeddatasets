@@ -62,6 +62,7 @@
 * [NCBI Handbook](https://www.ncbi.nlm.nih.gov/books/NBK143764/)
 * [NCBI All Resources](https://www.ncbi.nlm.nih.gov/guide/all/)
 * [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
+* [RNA-Seq Blog: Transcriptome Sequencing Research & Industry News](http://www.rna-seqblog.com/)
 * [University of Pittsburgh OBRC: Online Bioinformatics Resources Collection](https://www.hsls.pitt.edu/obrc/)
 * [Dr. Andrew Kropinski's Internet Resources for Molecular Biologists](http://molbiol-tools.ca/)
 
