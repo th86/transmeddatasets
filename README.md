@@ -1,6 +1,6 @@
-# Multi-omics Resources for Translational Medicine Research
+# Multi-Omics Resources for Translational Medicine Research
 
-## General Multi-omics Data Sets
+## General Omics Data Sets
 
 * [NCBI GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
 * [NCBI SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)
@@ -10,6 +10,7 @@
 * [EMBL-EBI ArrayExpress: Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
 * [BioGPS: BioGPS Dataset Library](http://biogps.org/dataset/)
 * [recount2: Analysis-Ready RNA-seq Gene and Exon Counts Datasets](https://jhubiostatistics.shinyapps.io/recount/)
+* [UCSC Xena Data Hubs: Normalized Public Omics Data Hubs with UCSC's own Data Sets](https://xenabrowser.net/datapages/)
 
 ## Disease Data Sets
 
@@ -38,13 +39,14 @@
 * [CPIC: The Clinical Pharmacogenetics Implementation Consortium](https://cpicpgx.org/)
 * [OncoKB: Precision Oncology Knowledge Base](http://oncokb.org/)
 
-## Single Cell RNA-seq Data Sets
+## Single Cell Omics Data Sets
 
-* [Broad Institute Single Cell Portal: Oligodendroglima/Astrocytoma/Melanoma](https://portals.broadinstitute.org/single_cell)
+* [Broad Institute Single Cell Portal: Single Cell Transcriptomes of Oligodendroglima/Astrocytoma/Melanoma](https://portals.broadinstitute.org/single_cell)
 * [NYGC Satija Lab: 2,700 + 33,000 blood cells](http://satijalab.org/seurat/get_started.html)
 * [NYU Yanai Lab: 8,500 pancrea cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133)
 * [10X Genomics: Single Cell Gene Expression Datasets](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [JingleBells: A Repository of Standardized Single Cell RNA-Seq Datasets](http://jinglebells.bgu.ac.il)
+* [Salk Institute Human and Mouse Frontal Cortex Methylomes: Single Cell Methylomes of 3,377 and 2,784 Neurons from the Frontal Cortex of Mice and a Human](http://brainome.ucsd.edu/annoj/brain_single_nuclei/)
 
 ## Epidemiology
 * [NCI SEER: Cancer Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
