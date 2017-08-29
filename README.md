@@ -16,7 +16,7 @@
 
 * [TCGA: The Cancer Genome Atlas](https://portal.gdc.cancer.gov/) or [Broad GDAC Firehose](http://gdac.broadinstitute.org/)
 * [ICGC: The International Cancer Genome Consortium](https://dcc.icgc.org/)
-* [CCLE: The Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle/home)
+* [CCLE: The Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle/about)
 * [cBioPortal for Cancer Genomics](http://www.cbioportal.org/)
 * [Broad Institute Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 * [GENIE: The AACR Project Genomics, Evidence, Neoplasia, Information, Exchange](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659)
