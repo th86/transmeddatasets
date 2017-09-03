@@ -63,6 +63,7 @@
 * [NCBI PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
 * [NCBI Handbook](https://www.ncbi.nlm.nih.gov/books/NBK143764/)
 * [NCBI All Resources](https://www.ncbi.nlm.nih.gov/guide/all/)
+* [OMICtools](https://omictools.com/)
 * [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
 * [RNA-Seq Blog: Transcriptome Sequencing Research & Industry News](http://www.rna-seqblog.com/)
 * [University of Pittsburgh OBRC: Online Bioinformatics Resources Collection](https://www.hsls.pitt.edu/obrc/)
@@ -72,4 +73,4 @@
 
 Thanks to Dr. Abdulkadir Elmas for providing a new item.
 
-Let me know if I miss something...
+Please let me know if I miss something.
