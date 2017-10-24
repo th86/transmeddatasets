@@ -21,7 +21,9 @@
 * [Broad Institute Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 * [GENIE: The AACR Project Genomics, Evidence, Neoplasia, Information, Exchange](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659)
 * [PCGP: Pediatric Cancer Genome Project](http://explore.pediatriccancergenomeproject.org/)
+* [HAS: The Hungarian Academy of Science Breast Cancer and Ovarian Cancer Data Sets](http://kmplot.com/analysis/index.php?p=download)
 * [SMRI: Stanley Medical Research Institute Brain Research Data Sets](http://www.stanleyresearch.org/brain-research/)
+* [SFARI-SSC: Simons Simplex Collection of Autism](https://www.sfari.org/resource/simons-simplex-collection/)
 * [PsychENCODE: The Psychiatric Disease Brain Data Sets](https://www.synapse.org//#!Synapse:syn4921369/wiki/390659)
 
 ## Reference Model Databases
