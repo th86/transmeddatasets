@@ -21,6 +21,7 @@
 * [METABRIC: The Genomic Profiles of 2,509 Breast Cancers](http://www.cbioportal.org/study?id=brca_metabric#summary)
 * [Broad Institute Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 * [GENIE: The AACR Project Genomics, Evidence, Neoplasia, Information, Exchange](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659)
+* [MSK-IMPACT: Targeted Sequencing of 10,000 Metastatic Cancer Cases](http://www.cbioportal.org/study?id=msk_impact_2017#summary)
 * [PCGP: Pediatric Cancer Genome Project](http://explore.pediatriccancergenomeproject.org/)
 * [HAS: The Hungarian Academy of Science Breast Cancer and Ovarian Cancer Data Sets](http://kmplot.com/analysis/index.php?p=download)
 * [SMRI: Stanley Medical Research Institute Brain Research Data Sets](http://www.stanleyresearch.org/brain-research/)
