@@ -52,7 +52,7 @@
 * [10X Genomics: Single Cell Gene Expression Datasets](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [JingleBells: A Repository of Standardized Single Cell RNA-Seq Datasets](http://jinglebells.bgu.ac.il)
 * [Salk Institute Human and Mouse Frontal Cortex Methylomes: Single Cell Methylomes of 3,377 and 2,784 Neurons from the Frontal Cortex of Mice and a Human](http://brainome.ucsd.edu/annoj/brain_single_nuclei/)
-* [Allen Brain Atlas: 15,928 Single Cell Transcriptomes from Four Postmortem Donor Brains and Four Neurosurgical Donor Brains.](http://celltypes.brain-map.org/download)
+* [Allen Brain Atlas: 15,928 Single Cell Transcriptomes from Four Postmortem Donor Brains and Four Neurosurgical Donor Brains](http://celltypes.brain-map.org/download)
 
 ## Epidemiology
 * [NCI SEER: Cancer Surveillance, Epidemiology, and End Result Program](https://seer.cancer.gov/)
