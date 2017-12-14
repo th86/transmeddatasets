@@ -53,6 +53,7 @@
 * [JingleBells: A Repository of Standardized Single Cell RNA-Seq Datasets](http://jinglebells.bgu.ac.il)
 * [Salk Institute Human and Mouse Frontal Cortex Methylomes: Single Cell Methylomes of 3,377 and 2,784 Neurons from the Frontal Cortex of Mice and a Human](http://brainome.ucsd.edu/annoj/brain_single_nuclei/)
 * [Allen Brain Atlas: 15,928 Single Cell Transcriptomes from Four Postmortem Donor Brains and Four Neurosurgical Donor Brains](http://celltypes.brain-map.org/download)
+* [UCSD Brain Single Cells: >60,000 Single Nucleus Transcriptomes and Single Cell DNA Accessibility Maps of Human Adult Brain Cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97942)
 * [HCA: The Human Cell Atlas. The data of 30,000,000+ cells is not available yet.](https://www.humancellatlas.org/)
 
 ## Epidemiology
